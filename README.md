@@ -15,9 +15,9 @@ open source LLM to the diferent agents available for searching and loading data 
 ## Screenshots
 
 
-![Architecture](https://raw.githubusercontent.com/NAMANNIMBLE1/websearch_using_agentic_ai/main/images/archietecture/architecture.png)
+![Architecture](https://github.com/NAMANNIMBLE1/websearch_using_agentic_ai/main/images/archietecture/architecture.png)
 
-![Demo](https://raw.githubusercontent.com/NAMANNIMBLE1/websearch_using_agentic_ai/main/images/archietecture/demo.png)
+![Demo](https://github.com/NAMANNIMBLE1/websearch_using_agentic_ai/main/images/archietecture/demo.png)
 
 
 
