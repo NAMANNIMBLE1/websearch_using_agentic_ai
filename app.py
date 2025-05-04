@@ -20,10 +20,9 @@ load_dotenv()
 
 import streamlit as st
 from langchain_core.messages import HumanMessage
-
-st.secrets(os.environ["TAVILY_API_KEY"]) = os.getenv("TAVILY_API_KEY")
-st.secrets(os.environ["GROQ_API_KEY"]) = os.getenv("GROQ_API_KEY")
-st.secrets(os.environ["AGENTQL_API_KEY"]) = os.getenv("AGENTQL_API_KEY")
+os.environ["TAVILY_API_KEY"]= os.getenv("TAVILY_API_KEY")
+os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["AGENTQL_API_KEY"] = os.getenv("AGENTQL_API_KEY")
 
 
 # tool1 
