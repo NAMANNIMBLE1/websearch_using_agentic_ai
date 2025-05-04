@@ -3,7 +3,7 @@
 
 ## Overview
 
-This porject focus on implementing a langgraph architecture to connect 
+This project focus on implementing a langgraph architecture to connect 
 open source LLM to the diferent agents available for searching and loading data based on the context porvided by the use and similarity score of the search making a web search bot retrieving latest news , trends and information accross the internet from diffrent resources.
 
 
